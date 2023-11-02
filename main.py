@@ -202,7 +202,7 @@ def jogo():
             print("Jogo pausado\nPressione espaço para retomar")
             keyboard.wait('space')
 
-        print("\nMaça:", Fore.RED + str(maca), end="")
+        print("\nMaçã:", Fore.RED + str(maca), end="")
         print(Style.RESET_ALL, end="")
         print(" Cobra: " + Fore.GREEN + str(cobra[-1]))
         print(Style.RESET_ALL, end="")
