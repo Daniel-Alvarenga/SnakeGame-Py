@@ -3,8 +3,6 @@ Snake game made in Python to be played on terminal
 
 Este é um jogo clássico da cobrinha (Snake Game) criado em Python. O jogo oferece uma interface para terminal (cmd, powershell, dentre outros) onde você controla a cobra para pegar maçãs e evita colidir com a própria cauda. Você também pode coletar "proteções" para tornar a experiência mais "segura". O jogo é uma ótima maneira de testar suas habilidades de raciocínio e reflexos.
 
-![Demonstração do Snake Game](demo.gif)
-
 ## Uso
 
 Certifique-se de ter o Python instalado em seu sistema. Recomenda-se criar um ambiente virtual Python para gerenciar as dependências do projeto.
@@ -40,6 +38,10 @@ Certifique-se de ter o Python instalado em seu sistema. Recomenda-se criar um am
      ```
 
 ## Como jogar
+
+<div align="center" width="200px" height="200px">
+<img src="https://github.com/Daniel-Alvarenga/SnakeGame-Py/assets/128755697/d18b6325-c287-49be-85f1-136c4a724921"/>
+</div>
 
 Para jogar siga os seguites passos  
 
